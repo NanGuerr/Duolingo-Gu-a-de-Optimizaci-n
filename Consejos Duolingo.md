@@ -45,5 +45,3 @@ Las 3 misiones diarias son el motor de la eficiencia. No solo te dan gemas, sino
 ---
 
 **Nota importante:** Ten cuidado con abusar de los protectores de racha. Si te quedas sin ellos y olvidas un día, podrías perder una racha larga. Asegúrate siempre de tener gemas para reponerlos.
-
-¿Te gustaría que te ayude a calcular una rutina diaria para maximizar esos 800 XP semanales dedicando menos de 15 minutos al día?
