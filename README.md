@@ -1,4 +1,4 @@
-# 🦉 Duolingo Max: Guía de Optimización de Ligas
+# 🦉 Duolingo: Guía de Optimización de Ligas
 
 ![Status](https://img.shields.io/badge/Status-En_Desarrollo-green)
 ![Category](https://img.shields.io/badge/Category-EdTech-orange)
@@ -59,5 +59,6 @@ Maximiza tu tiempo con bonos multiplicadores:
 > Mantener la racha es importante, pero no olvides que el objetivo es aprender un nuevo idioma. Usa estos trucos para reducir el estrés de la competición y enfocarte en lo que realmente importa.
 
 ---
+
 
 *Proyecto creado por un amante de los idiomas y la optimización de procesos.*
