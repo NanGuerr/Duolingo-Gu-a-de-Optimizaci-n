@@ -4,6 +4,34 @@
 
 ---
 
+## 💎 La Liga Diamante y el Torneo 👑
+
+Cuando llegas a la **Liga Diamante**, has alcanzado el nivel máximo, ¡pero el juego no termina aquí!
+
+* **El Torneo de Diamante** 🏆: Si quedas entre los 10 primeros en la Liga Diamante en semanas específicas, entrarás al "Torneo". Este tiene tres fases: Cuartos de final, Semifinales y Final.
+* **¿Qué pasa si ganas 3 veces seguidas?** 🥇🥇🥇: 
+    * Obtendrás y mejorarás el logro **"Invencible"** (Unstoppable).
+    * Si ganas la Liga Diamante, desbloqueas el nivel más alto de este logro.
+    * Ganar tres veces seguidas te da un estatus visual especial en tu perfil y, en ocasiones, insignias exclusivas según la temporada.
+    * ¡Te conviertes en una leyenda viviente para la comunidad!
+
+---
+
+## 🎁 Premios por Campeonato (Top 3) 💰
+
+Los premios varían según la liga (mientras más alta, más gemas). Aquí tienes una estimación general de lo que recibirás en cada una:
+
+| Liga | 🥇 1er Lugar | 🥈 2do Lugar | 🥉 3er Lugar |
+| :--- | :--- | :--- | :--- |
+| **Bronce - Oro** | 20 - 60 Gemas + Cofre 💎 | 10 - 30 Gemas 💎 | 5 - 15 Gemas 💎 |
+| **Zafiro - Esmeralda** | 70 - 150 Gemas + Boost XP ⚡ | 40 - 80 Gemas 💎 | 20 - 50 Gemas 💎 |
+| **Amatista - Obsidiana**| 200 - 400 Gemas + Cofre Legendario 📦 | 100 - 150 Gemas 💎 | 60 - 90 Gemas 💎 |
+| **Diamante** | 500 - 600 Gemas + Medalla de Oro 🏅 | 200 - 300 Gemas 💎 | 100 - 150 Gemas 💎 |
+
+> **Nota:** Además de las gemas, el **1er lugar** suele recibir un **Cofre de Recompensa** que contiene potenciadores de XP (X2) por 15 o 30 minutos y, en la Liga Diamante, el codiciado **Trofeo Legendario** en tu perfil. 🏆✨
+
+---
+
 ## 🔝 El Camino a la Cima: Las 10 Ligas 🚀
 
 Para llegar a la meta, deberás escalar estas divisiones en orden:
@@ -37,32 +65,5 @@ Para llegar a la meta, deberás escalar estas divisiones en orden:
 * **Racha de fin de semana** ⚡: Muchos usuarios suben su puntaje los domingos antes del cierre. ¡No te confíes!
 
 ---
-
-## 💎 La Liga Diamante y el Torneo 👑
-
-Cuando llegas a la **Liga Diamante**, has alcanzado el nivel máximo, ¡pero el juego no termina aquí!
-
-* **El Torneo de Diamante** 🏆: Si quedas entre los 10 primeros en la Liga Diamante en semanas específicas, entrarás al "Torneo". Este tiene tres fases: Cuartos de final, Semifinales y Final.
-* **¿Qué pasa si ganas 3 veces seguidas?** 🥇🥇🥇: 
-    * Obtendrás y mejorarás el logro **"Invencible"** (Unstoppable).
-    * Si ganas la Liga Diamante, desbloqueas el nivel más alto de este logro.
-    * Ganar tres veces seguidas te da un estatus visual especial en tu perfil y, en ocasiones, insignias exclusivas según la temporada.
-    * ¡Te conviertes en una leyenda viviente para la comunidad!
-
----
-
-## 🎁 Premios por Campeonato (Top 3) 💰
-
-Los premios varían según la liga (mientras más alta, más gemas). Aquí tienes una estimación general de lo que recibirás en cada una:
-
-| Liga | 🥇 1er Lugar | 🥈 2do Lugar | 🥉 3er Lugar |
-| :--- | :--- | :--- | :--- |
-| **Bronce - Oro** | 20 - 60 Gemas + Cofre 💎 | 10 - 30 Gemas 💎 | 5 - 15 Gemas 💎 |
-| **Zafiro - Esmeralda** | 70 - 150 Gemas + Boost XP ⚡ | 40 - 80 Gemas 💎 | 20 - 50 Gemas 💎 |
-| **Amatista - Obsidiana**| 200 - 400 Gemas + Cofre Legendario 📦 | 100 - 150 Gemas 💎 | 60 - 90 Gemas 💎 |
-| **Diamante** | 500 - 600 Gemas + Medalla de Oro 🏅 | 200 - 300 Gemas 💎 | 100 - 150 Gemas 💎 |
-
-> **Nota:** Además de las gemas, el **1er lugar** suele recibir un **Cofre de Recompensa** que contiene potenciadores de XP (X2) por 15 o 30 minutos y, en la Liga Diamante, el codiciado **Trofeo Legendario** en tu perfil. 🏆✨
-
 ---
 ¡Buena suerte, estudiante! No dejes que el dúo te persiga... ¡estudia! 🦉🔪 (es broma... o tal vez no). 🤣
