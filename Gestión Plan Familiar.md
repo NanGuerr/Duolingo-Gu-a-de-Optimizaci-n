@@ -1,4 +1,4 @@
-# 📘 Guía de Gestión: Duolingo Super (Plan Familiar)
+# 📘 Guía de Gestión: Plan Familiar
 
 Este documento detalla el procedimiento para configurar, invitar y gestionar miembros en un Plan Familiar de Duolingo, optimizando el costo por usuario.
 
