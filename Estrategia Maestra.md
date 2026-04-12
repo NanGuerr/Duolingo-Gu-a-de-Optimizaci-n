@@ -1,4 +1,4 @@
-# Estrategia Maestra para Duolingo: Ligas y Rendimiento
+# Estrategia Maestra para Duolingo
 
 ¡Hola! Este es un truco clásico en la comunidad de Duolingo. Como alguien que ha pasado mucho tiempo en la aplicación, te confirmo que **la teoría es mayormente correcta**, con algunas consideraciones importantes que debes conocer para que no te falle la estrategia.
 
