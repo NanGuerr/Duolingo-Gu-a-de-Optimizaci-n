@@ -1,3 +1,6 @@
+
+<p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="20%"></p>
+
 # 🦉 Duolingo: Guía de Optimización de Ligas
 
 ![Status](https://img.shields.io/badge/Status-En_Desarrollo-green)
