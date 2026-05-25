@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n/blob/main/Banner.png?raw=true" width="20%"></p>
+<p align="center"><img src="https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n/blob/main/Banner.png?raw=true" width="80%"></p>
 
 # 🦉 Duolingo: Guía de Optimización de Ligas
 
