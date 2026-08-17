@@ -75,14 +75,19 @@ Maximiza tu tiempo con bonos multiplicadores
 - **Estilos:** Tailwind CSS (diseño limpio y minimalista).
 - **Despliegue:** Vercel o Netlify.
 
+
+<p align="center">
+  <a href="#-características-principales">
+    <img src="https://img.shields.io/badge/Características-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Características Principales">
+  </a>
+</p>
+
+
 ---
 
 > [!NOTE] 
 > Mantener la racha es importante, pero no olvides que el objetivo es aprender un nuevo idioma. Usa estos trucos para reducir el estrés de la competición y enfocarte en lo que realmente importa.
 
----
-
 #### *Proyecto creado por alguien que ama los idiomas y la optimización de procesos.*
-
 
 > ### *Ultima actualización: Agosto 2027*
