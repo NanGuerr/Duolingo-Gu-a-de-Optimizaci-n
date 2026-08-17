@@ -15,7 +15,7 @@
 <p align="center"><img src="https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n/blob/main/Banner.png?raw=true" width="80%"></p>
 
 
-![Streak](https://img.shields.io/badge/Racha-%23FF9600.svg?style=flat&logo=firebase&logoColor=white)
+![Streak](https://img.shields.io/badge/Racha-%23FF8C00.svg?style=flat&logo=firebase&logoColor=white)
 ![Gemas](https://img.shields.io/badge/Liga_Diamante-%231CB0F6.svg?style=flat&logo=ruby&logoColor=white)
 ![Super Duolingo](https://img.shields.io/badge/Super_Duolingo-%230052FF.svg?style=flat&logo=duolingo&logoColor=white)
 ![Vidas](https://img.shields.io/badge/Vidas_Infinitas-%23D32F2F.svg?style=flat&logo=githubsponsors&logoColor=white)
@@ -87,7 +87,6 @@ Maximiza tu tiempo con bonos multiplicadores
 
 > [!NOTE] 
 > Mantener la racha es importante, pero no olvides que el objetivo es aprender un nuevo idioma. Usa estos trucos para reducir el estrés de la competición y enfocarte en lo que realmente importa.
-
-#### *Proyecto creado por alguien que ama los idiomas y la optimización de procesos.*
+> *Proyecto creado por alguien que ama los idiomas y la optimización de procesos.*
 
 > ### *Ultima actualización: Agosto 2027*
