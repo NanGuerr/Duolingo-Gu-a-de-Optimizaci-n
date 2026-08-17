@@ -9,7 +9,7 @@ Sin duda, es la forma más económica y segura. Permite hasta **6 cuentas indepe
 
 | Concepto | Plan Individual (Estimado) | Plan Familiar (Total) | Costo por Persona (Grupo de 6) |
 | :--- | :--- | :--- | :--- |
-| **Costo Mensual** | ~$7.99 USD | ~$9.99 USD | **$1.66 USD** |
+| **Costo Mensual** | ~$7.99 USD | ~$9.99 USD | **USD** |
 | **Costo Anual** | ~$80.00 USD | ~$119.99 USD | **$20.00 USD** |
 
 > **Ventaja:** No hay riesgo de baneo y cada quien mantiene su progreso y racha por separado.
