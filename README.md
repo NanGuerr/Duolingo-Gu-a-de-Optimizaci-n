@@ -87,6 +87,6 @@ Maximiza tu tiempo con bonos multiplicadores
 
 > [!NOTE] 
 > Mantener la racha es importante, pero no olvides que el objetivo es aprender un nuevo idioma. Usa estos trucos para reducir el estrés de la competición y enfocarte en lo que realmente importa.
-> *Proyecto creado por alguien que ama los idiomas y la optimización de procesos.*
+> ***Proyecto creado por alguien que ama los idiomas y la optimización de procesos.***
 
 > ### *Ultima actualización: Agosto 2027*
