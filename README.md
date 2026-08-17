@@ -1,8 +1,27 @@
+# 🦉 Duolingo: Guía de Optimización de Ligas
+> [!IMPORTANT]
+> ### *"La gamificación es una herramienta para el aprendizaje, no el fin último."* 
+
+<p align="center">
+  <a href="#-características-principales">
+    <img src="https://img.shields.io/badge/Características-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Características Principales">
+  </a>
+  <a href="#-el-ciclo-de-doble-xp">
+    <img src="https://img.shields.io/badge/Dobl_XP-58cc02?style=for-the-badge&logo=target&logoColor=white" alt="Doble XP">
+  </a>
+</p>
+
 
 <p align="center"><img src="https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n/blob/main/Banner.png?raw=true" width="80%"></p>
 
-# 🦉 Duolingo: Guía de Optimización de Ligas
 
+![Streak](https://img.shields.io/badge/Racha-%23FF9600.svg?style=flat&logo=firebase&logoColor=white)
+![Gemas](https://img.shields.io/badge/Liga_Diamante-%231CB0F6.svg?style=flat&logo=ruby&logoColor=white)
+![Super Duolingo](https://img.shields.io/badge/Super_Duolingo-%230052FF.svg?style=flat&logo=duolingo&logoColor=white)
+![Vidas](https://img.shields.io/badge/Vidas_Infinitas-%23D32F2F.svg?style=flat&logo=githubsponsors&logoColor=white)
+![Doble XP](https://img.shields.io/badge/Doble_XP-%2358CC02.svg?style=flat&logo=target&logoColor=white)
+![Poción XP](https://img.shields.io/badge/Poción_XP-%23CE82FF.svg?style=flat&logo=flask&logoColor=white)
+---
 ![Status](https://img.shields.io/badge/Status-En_Desarrollo-green)
 ![Category](https://img.shields.io/badge/Category-EdTech-orange)
 
@@ -14,7 +33,7 @@ Una plataforma web dedicada a recopilar estrategias, trucos y métodos de optimi
 
 Este proyecto nace de la necesidad de equilibrar el aprendizaje de idiomas con la gamificación de la plataforma. Muchos usuarios se sienten frustrados por la alta competitividad de la **Liga Diamante**. Aquí documentamos cómo el algoritmo de emparejamiento puede trabajar a tu favor.
 
-## ✨ Características Principales
+## <span id="caracteristicas-principales">✨ Características Principales</span>
 
 * **Calculadora de XP:** Herramienta para planificar cuánto XP necesitas para mantenerte en tu liga actual.
 * **Guía de Horarios:** Cronograma para maximizar el uso de los cofres de *Madrugador* y *Noctámbulo*.
@@ -38,8 +57,10 @@ El sistema te empareja según tu historial reciente:
 - **Límite sugerido:** Mantente cerca de los **800 - 1000 XP** semanales si tu objetivo es solo permanencia.
 - **Efecto:** El algoritmo te mantendrá en "ligas relajadas". Si subes a 5,000 XP una semana, la siguiente será considerablemente más difícil.
 
-### 3. El Ciclo de Doble XP
-Maximiza tu tiempo con bonos multiplicadores:
+## <span id="el-ciclo-de-doble-xp">🥇 El Ciclo de Doble XP</span>
+
+Maximiza tu tiempo con bonos multiplicadores
+
 | Bono | Horario de Obtención | Horario de Uso |
 | :--- | :--- | :--- |
 | **Cofre Madrugador** | 06:00 AM - 12:00 PM | Después de las 06:00 PM |
@@ -56,17 +77,12 @@ Maximiza tu tiempo con bonos multiplicadores:
 
 ---
 
-## ⚠️ Notas Importantes
-> "La gamificación es una herramienta para el aprendizaje, no el fin último." 
-> 
+> [!NOTE] 
 > Mantener la racha es importante, pero no olvides que el objetivo es aprender un nuevo idioma. Usa estos trucos para reducir el estrés de la competición y enfocarte en lo que realmente importa.
 
 ---
 
-*Please just leave a SIGNAL on **[DUOLINGO](https://www.duolingo.com/profile/NanGuer)** if you need anything.*
-
-<p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="20%"></p>
-
-*Proyecto creado por alquien que ama los idiomas y la optimización de procesos.*
+#### *Proyecto creado por alguien que ama los idiomas y la optimización de procesos.*
 
 
+> ### *Ultima actualización: Agosto 2027*
