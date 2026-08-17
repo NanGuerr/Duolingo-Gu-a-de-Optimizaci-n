@@ -20,7 +20,7 @@
 ![Super Duolingo](https://img.shields.io/badge/Super_Duolingo-%230052FF.svg?style=flat&logo=duolingo&logoColor=white)
 ![Vidas](https://img.shields.io/badge/Vidas_Infinitas-%23D32F2F.svg?style=flat&logo=githubsponsors&logoColor=white)
 ![Doble XP](https://img.shields.io/badge/Doble_XP-%2358CC02.svg?style=flat&logo=target&logoColor=white)
-![Poción XP](https://img.shields.io/badge/Poción_XP-%23CE82FF.svg?style=flat&logo=flask&logoColor=white)
+![Poción XP](https://img.shields.io/badge/Poción_XP-%23663399.svg?style=flat&logo=flask&logoColor=white)
 ---
 ![Status](https://img.shields.io/badge/Status-En_Desarrollo-green)
 ![Category](https://img.shields.io/badge/Category-EdTech-orange)
